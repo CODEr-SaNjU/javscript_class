@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    background-color: deepskyblue;
+    width: 100%;
+    height: 10vh;
+    text-align: center;
+    padding: 10px;
+}
+.input-area, .output {
+    margin: 10px;
+    padding: 50px;
+}
+.input-area #text-input{
+    display: block;
+    height: 15vh;
+    width: 100vh;
+    text-align: center;
+    border: 1px solid orange;
+}
+.output-area{
+    margin: 50px;
+    padding: 25px;
+    border: 6px solid #06ec06;
+    height: 10vh;
+    width: 100vh;
+}
+
+button{
+ margin:10px;
+ padding: 20px;
+}
+#btn-click{
+    border: none;
+    background-color: yellow;
+    width: 100px;
+    height: 50px;
+    color: rgb(201, 214, 20);
+    font-weight: bold;
+    margin-left: 400px;
+}
